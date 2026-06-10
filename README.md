@@ -15,7 +15,7 @@ Dashboard Preview
 
 ![image alt](https://github.com/rt5899-art/Sales-Dashboard-Excel/blob/main/ss-%20Sales%20dashboard_excel.png?raw=true)
 
-### Key Business Insights
+### Key Business Insights 
 
 * Macro Financial Totals: Consolidated performance records Total Sales of 5,604,598.96 yielding a Total Profit of 1,312,009.30.
 
