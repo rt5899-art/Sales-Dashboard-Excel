@@ -8,8 +8,6 @@ This project delivers a multi-dimensional retail analytics solution engineered i
 
 Platform: Microsoft Excel
 
-Data Engineering: Power Query (ETL pipeline configuration, data schema design)
-
 Analytical Processing: Pivot Tables, Pivot Charts, Advanced Logical Array Formulas
 
 Interactivity Layout: Multi-slicer parameter controls (Sales Channel, Payment Mode, Delivery Status, Region, and Product Category)
