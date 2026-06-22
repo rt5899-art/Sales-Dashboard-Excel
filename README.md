@@ -15,7 +15,7 @@ Dashboard Preview
 
 ![image alt](https://github.com/rt5899-art/Sales-Dashboard-Excel/blob/main/final%20sales_excel.png?raw=true)
 
-### Key Business Insights 
+### Business Insights 
 
 * Macro Financial Totals: Consolidated performance records Total Sales of 5,604,598.96 yielding a Total Profit of 1,312,009.30.
 
@@ -37,7 +37,7 @@ Dashboard Preview
 
 * Shrinkage & Returns: Cancelled orders (1,324,920.18) and Returned products (1,323,595.12) match successful deliveries virtually 1:1, eroding bottom-line profit margins.
 
-### Strategic Recommendations
+###  Recommendations
 
 Insight: Cancelled and returned orders collectively outnumber successfully delivered goods, heavily limiting net revenue.
 
