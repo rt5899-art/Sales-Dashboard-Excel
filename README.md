@@ -13,7 +13,7 @@ Analytical Processing: Pivot Tables, Pivot Charts, Advanced Logical Array Formul
 Interactivity Layout: Multi-slicer parameter controls (Sales Channel, Payment Mode, Delivery Status, Region, and Product Category)
 Dashboard Preview
 
-![image alt](https://github.com/rt5899-art/Sales-Dashboard-Excel/blob/main/ss-%20Sales%20dashboard_excel.png?raw=true)
+![image alt](https://github.com/rt5899-art/Sales-Dashboard-Excel/blob/main/final%20sales_excel.png?raw=true)
 
 ### Key Business Insights 
 
